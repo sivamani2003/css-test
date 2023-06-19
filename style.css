@@ -1,0 +1,39 @@
+.p {
+    width: 700px;
+    height: 400px;
+    background-color: yellow;
+    position: absolute;
+    left: 200px;
+    top: 140px;
+}
+
+.p p {
+    margin-left: 30%;
+    font-size: 50px;
+    color: white;
+}
+.p img{
+    margin-left: 50%;
+}
+
+.s {
+    width: 700px;
+    height: 100px;
+    background-color: palevioletred;
+    margin-top: 20%;
+
+}
+
+.i {
+    font-size: 50px;
+    color: white;
+}
+
+.triangle-down {
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-top: 50px solid yellow;
+    margin-left: 40%;
+}
